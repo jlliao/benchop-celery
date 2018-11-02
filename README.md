@@ -44,7 +44,7 @@ You can click "Check Result" to see if the result is available. If the result is
 Here is another example of executing problem 1 c) I. Some result does not show up because the outcome of running the benchop program might be NaN.
 
 <div style='border: 2px solid #f00;'>
-  <img height=480 src="images/flower.png">
+  <img height=480 src="images/intro4.png">
 </div>
 </br>
 
