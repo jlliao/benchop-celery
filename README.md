@@ -84,7 +84,7 @@ docker-compose scale worker=5
 ```
 This will create 4 more containers each running a worker. `http://your-dockermachine-ip:5555` should now show 5 workers waiting for some jobs!
 
-If you want to further leverage on cloud environment and deploy more workers and containers on various instances, please check out [Benchop on Celery with Swarm](https://contribute.jquery.org/).
+If you want to further leverage on cloud environment and deploy more workers and containers on various instances, please check out [Benchop on Celery with Swarm](https://github.com/jlliao/benchop).
 
 ### Files
 
